@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.root": "/",
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/Users/serhiilysenko/projects/certeficate/localhost.pem",
+    "key": "/Users/serhiilysenko/projects/certeficate/localhost.key",
+    "passphrase": "openssl"
+  }
+}
